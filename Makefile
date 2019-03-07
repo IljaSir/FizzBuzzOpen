@@ -1,9 +1,7 @@
+all: fizzbuzz
 
-out: main.o
-	g++ main.o -o out
-
-main.o:
-	g++ -c main.cpp
+fizzbuzz: main.cpp
+	g++ -o fizzbuzz main.cpp
 
 clean:
-	rm *.o out
+	rm -f fizzbuzz
