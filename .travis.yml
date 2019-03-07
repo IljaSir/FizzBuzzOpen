@@ -1,3 +1,7 @@
 language: cpp
 os: linux
 script: make
+addons:
+        apt:
+          packages:
+            - clang-3.6
