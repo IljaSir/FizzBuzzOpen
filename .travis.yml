@@ -1,2 +1,2 @@
 language: cpp
-os: windows
+os: linux
