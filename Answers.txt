@@ -1,0 +1,5 @@
+1 2 fizz 4 buzz fizz 7 8 fizz buzz fizzbuzz fizz
+fizz fizzbuzz fizzbuzz buzz -7
+buzz buzz buzz fizzbuzz buzz fizzbuzz -2 -67 buzz
+buzz fizz fizzbuzz
+fizz
