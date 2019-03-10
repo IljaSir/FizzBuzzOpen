@@ -36,7 +36,7 @@ bool dev_by_5(const string& num)
 
 int main() 
 {
-	bool TestMode = false; // TestMode flag
+	bool TestMode = true; // TestMode flag
 	string in;
 	vector<string> str_vec;
 	ifstream input;
