@@ -5,4 +5,4 @@ os:
   -windows
 script:
   - make
-  - fizzbuzz
+  - ./fizzbuzz
