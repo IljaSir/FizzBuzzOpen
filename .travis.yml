@@ -3,4 +3,4 @@ sudo: false
 os: 
   -linux
   -windows
-script: make
+script: main.cpp
