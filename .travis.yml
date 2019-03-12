@@ -3,4 +3,6 @@ sudo: false
 os: 
   -linux
   -windows
-script: cpp main.cpp
+script:
+  - make
+  - fizzbuzz
