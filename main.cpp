@@ -97,6 +97,5 @@ int main()
 	}
 	else
 		cout << "Input file is not opened!" << endl;
-	getchar();
 	return 0;
 }
