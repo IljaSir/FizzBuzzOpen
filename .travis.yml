@@ -7,4 +7,4 @@ os:
 script:
   - make
   - ./fizzbuzz
-  - ./testfizzbuzz
+  - c++ .cpp
