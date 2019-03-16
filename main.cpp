@@ -17,7 +17,6 @@ int main()
 	else
 		cout << "Output file is not opened!" << endl;
 	output.close();
-	getchar();
 	return 0;
 }
 
