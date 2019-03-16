@@ -6,3 +6,4 @@ os:
 script:
   - make
   - ./fizzbuzz
+  - ./testfizzbuzz
