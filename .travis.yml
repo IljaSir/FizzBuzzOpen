@@ -3,6 +3,10 @@ sudo: false
 os: 
   -linux
   -windows
+matrix:
+  include:
+    packages:
+      -boost1.67
 script:
   - make
   - ./fizzbuzz
